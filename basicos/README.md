@@ -18,5 +18,6 @@ chmod +x nomeArquivo.sh
 
 Nome do Arquivo|Para que serve|Status de Funcionamento
 |---|---|---|
-executador.sh| Serve para executar qualquer script|:white_check_mark:
-frase.sh| Serve para enviar uma mensagem de texto ao terminal|:white_check_mark:
+executador.sh| Serve para executar qualquer script|:heavy_check_mark:
+frase.sh| Serve para enviar uma mensagem de texto ao terminal|:heavy_check_mark:
+input.sh| Serve para testar a entrada e saida de uma variavel em Shell Script|:heavy_check_mark:

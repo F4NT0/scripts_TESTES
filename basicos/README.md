@@ -21,3 +21,5 @@ Nome do Arquivo|Para que serve|Status de Funcionamento
 executador.sh| Serve para executar qualquer script|:heavy_check_mark:
 frase.sh| Serve para enviar uma mensagem de texto ao terminal|:heavy_check_mark:
 input.sh| Serve para testar a entrada e saida de uma variavel em Shell Script|:heavy_check_mark:
+comando.sh| Serve para testar se são chamados comando no terminal em uma String no Script|:heavy_check_mark:
+
